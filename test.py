@@ -1,4 +1,4 @@
-from .yt_search import YouTubeSearch
+from .ytsearch import YouTubeSearch
 
 
 class TestSearch:
