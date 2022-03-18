@@ -16,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/MrAbhiX/yt_search",
     author="ABHISHEK THAKUR",
-    author_email="mr@gmabhixd03ail.com",
+    author_email="mrabhixd03ail.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
@@ -24,7 +24,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    packages=["yt_search"],
+    packages=["ytsearch"],
     include_package_data=True,
     install_requires=["requests"],
 )
